@@ -1,10 +1,10 @@
 +++
-title = "Vessl Documentation"
+title = "Documentation"
 description = "Vessl is a simple container management UI service focused on deploy and maintain Docker containers."
 +++
 
 {{< lead >}}
-Vessl is a simple container management UI service focused on deploy and maintain Docker containers running in an IOT device based on Linux OS. The application allows you to manage resources (containers, images, image repository, users, etc.) through a simple GUI.
+Vessl is a simple container management UI service focused on deploy and maintain Docker containers running in an IOT device. The application allows you to manage resources (containers, images, image repository, users, etc.) through a simple GUI.
 {{< /lead >}}
 
 
